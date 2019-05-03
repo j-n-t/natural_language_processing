@@ -1,2 +1,3 @@
 NLP projects:
-* Text Classification
+* Text Classification with scikit-learn
+* Sentiment Analysis with VADER
