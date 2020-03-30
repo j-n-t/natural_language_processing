@@ -10,9 +10,14 @@ This repository illustrates how different natural language techniques can be app
 Sentiment analysis of 10 000 Amazon reviews with a **rule-based algorithm (VADER)** and a **machine learning model**.
 <br><br>
 
-* [Text Classification](./Text%20Classification.ipynb)
+* [Text Classification with Classical ML](./Text%20Classification.ipynb)
 <br><br>
 Text classification of movie reviews from the polarity dataset v2.0 using different approaches. Creation of a **custom text normalization transformer and a custom gensim vectorization transformer** to be used in a **scikit-learn pipeline**. Testing of **different classifiers**.
+<br><br>
+
+* [Text Classification with Neural Networks](./Text%20Classification%20with%Neural%20Networks.ipynb)
+<br><br>
+Text classification of movie reviews from the large movie review dataset using **artifical neural networks** - creation of **9 different architectures** with **Keras**. Evaluation and comparison of the performance of the **different classifiers**.
 <br><br>
 
 * [Topic Modeling](https://nbviewer.ipython.org/github/j-n-t/natural_language_processing/blob/02e845395f8654ac642ec418674a5bb1b2543326/Topic%20Modeling.ipynb)
