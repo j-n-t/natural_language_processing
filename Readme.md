@@ -5,6 +5,11 @@ This repository illustrates how different natural language techniques can be app
 
 ## Projects
 
+* [Part-of-speech tagging and Named Entity Recognition](./POS%20Tagging%20and%20NER.ipynb)
+<br><br>
+POS tagging and Named Entity Recognition with **spaCy**.
+<br><br>
+
 * [Sentiment Analysis](./Sentiment%20Analysis.ipynb)
 <br><br>
 Sentiment analysis of 10 000 Amazon reviews with a **rule-based algorithm (VADER)** and a **machine learning model**.
