@@ -7,7 +7,8 @@ This repository illustrates how different natural language techniques can be app
 
 * [Part-of-speech tagging and Named Entity Recognition](./POS%20Tagging%20and%20NER.ipynb)
 <br><br>
-POS tagging and Named Entity Recognition with **spaCy**.
+POS tagging and Named Entity Recognition with **spaCy**. <br><br>
+This notebook can be better visualized on [nbviewer](https://nbviewer.jupyter.org/github/j-n-t/natural_language_processing/blob/master/POS%20Tagging%20and%20NER.ipynb).
 <br><br>
 
 * [Sentiment Analysis](./Sentiment%20Analysis.ipynb)
