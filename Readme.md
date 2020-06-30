@@ -5,9 +5,9 @@ This repository illustrates how different natural language techniques can be app
 
 ## Projects
 
-* [Part-of-speech tagging and Named Entity Recognition](./POS%20Tagging%20and%20NER.ipynb)
+* [POS Tagging, Syntactic Dependency Parsing and NER](./POS%20Tagging%20and%20NER.ipynb)
 <br><br>
-POS tagging and Named Entity Recognition with **spaCy**. <br><br>
+Part-of-speech tagging (POS), syntactic dependency parsing and named entity recognition (NER) with **spaCy**. <br><br>
 This notebook can be better visualized on [nbviewer](https://nbviewer.jupyter.org/github/j-n-t/natural_language_processing/blob/master/POS%20Tagging%20and%20NER.ipynb).
 <br><br>
 
