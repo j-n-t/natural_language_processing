@@ -11,6 +11,12 @@ Part-of-speech tagging (POS), syntactic dependency parsing and named entity reco
 This notebook can be better visualized on [nbviewer](https://nbviewer.jupyter.org/github/j-n-t/natural_language_processing/blob/master/POS%20Tagging%20and%20NER.ipynb).
 <br><br>
 
+* [Training the NER pipeline component](./spacy-inception_ner_training.ipynb)
+<br><br>
+Update the Named Entity Recognition (NER) pipeline component using **spaCy** and **INCEpTION**. <br><br>
+This notebook can be better visualized on [nbviewer](https://nbviewer.jupyter.org/github/j-n-t/natural_language_processing/blob/master/spacy-inception_ner_training.ipynb).
+<br><br>
+
 * [Sentiment Analysis](./Sentiment%20Analysis.ipynb)
 <br><br>
 Sentiment analysis of 10 000 Amazon reviews with a **rule-based algorithm (VADER)** and a **machine learning model**.
